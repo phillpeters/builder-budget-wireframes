@@ -2,6 +2,8 @@
 
 ### Project List
 
+- [landing page](https://raw.githack.com/phillpeters/builder-budget/master/builder-budget-wireframes/landing-page.html)
+
 - [project list (home screen)](https://raw.githack.com/phillpeters/builder-budget/master/builder-budget-wireframes/project-list.html)
   - user clicks add new project -> input form inline with project list
   - user confirms add new project -> project list with new project, alt project page for new project
